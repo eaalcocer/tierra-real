@@ -48,15 +48,21 @@ export default function TierraRealLanding() {
           </div>
         </div>
 
-        <div className="h-80 bg-neutral-200 rounded-3xl flex items-center justify-center">
-        </div>
+        <img
+  src="/Camino.JPG"
+  alt="Proyecto Tierra Real"
+  className="h-80 w-full rounded-3xl object-cover"
+/>
       </section>
 
       {/* Proyecto */}
       <section id="proyecto" className="bg-neutral-50 py-20">
         <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
-          <div className="h-80 bg-neutral-200 rounded-3xl flex items-center justify-center">
-          </div>
+<img
+  src="/Yaxnic-molas.png"
+  alt="Masterplan del proyecto"
+  className="h-80 w-full rounded-3xl object-cover"
+/>
 
           <div>
             <h2 className="text-3xl font-semibold">Un proyecto con fundamentos, no promesas</h2>
