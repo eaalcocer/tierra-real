@@ -21,20 +21,6 @@ export default function TierraRealLanding() {
   Invierte tu dinero en tierra con potencial real. Escrituración individual, acceso definido y opción de pago hasta 12 meses.
 </p>
 
-<div className="mt-8 grid grid-cols-3 gap-4 text-center">
-  <div>
-    <p className="text-xl font-semibold">Desde</p>
-    <p className="text-sm text-neutral-500">$108,790</p>
-  </div>
-  <div>
-    <p className="text-xl font-semibold">Financiamiento</p>
-    <p className="text-sm text-neutral-500">Hasta 12 meses</p>
-  </div>
-  <div>
-    <p className="text-xl font-semibold">Ubicación</p>
-    <p className="text-sm text-neutral-500">Yaxnic, Mérida, Yucatán</p>
-  </div>
-</div>
       <section className="mx-auto max-w-7xl px-6 py-20 md:py-28 grid md:grid-cols-2 gap-12 items-center">
         <div>
           <p className="text-sm uppercase tracking-widest text-neutral-500">Nuevo lanzamiento</p>
@@ -44,6 +30,21 @@ export default function TierraRealLanding() {
           <p className="mt-6 text-neutral-600 leading-8">
             Un proyecto pensado para generar plusvalía real, con acceso claro, documentación en regla y una ubicación con crecimiento sostenido.
           </p>
+
+          <div className="mt-8 grid grid-cols-3 gap-4 text-center">
+            <div>
+              <p className="text-xl font-semibold">Desde</p>
+              <p className="text-sm text-neutral-500">$108,790</p>
+            </div>
+            <div>
+              <p className="text-xl font-semibold">Ubicación</p>
+              <p className="text-sm text-neutral-500">Yaxnic, Mérida, Yucatán</p>
+            </div>
+            <div>
+              <p className="text-xl font-semibold">Financiamiento</p>
+              <p className="text-sm text-neutral-500">Hasta 12 meses</p>
+            </div>
+          </div>
 
           <div className="mt-8 flex gap-4">
             <a href="#contacto" className="bg-neutral-900 text-white px-6 py-3 rounded-full text-sm">
