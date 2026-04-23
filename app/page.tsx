@@ -59,7 +59,7 @@ export default function TierraRealLanding() {
       <section id="proyecto" className="bg-neutral-50 py-20">
         <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
 <img
-  src="/Master.png"
+  src="/MP-Clean.png"
   alt="Masterplan del proyecto"
   className="w-full rounded-3xl object-cover"
 />
