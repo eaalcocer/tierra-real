@@ -3,7 +3,7 @@ export default function TierraRealLanding() {
     <div className="min-h-screen bg-white text-neutral-900">
 
       {/* Header */}
-      <header className="sticky top-0 z-50 border-b border-neutral-200 bg-white/90 backdrop-blur">
+      <header className="sticky top-0 z-50 border-b border-[#b99881] bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <p className="text-lg font-semibold">Tierra Real</p>
           <a href="#contacto" className="rounded-full bg-neutral-900 px-5 py-2.5 text-sm text-white">
