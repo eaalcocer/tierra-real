@@ -13,6 +13,28 @@ export default function TierraRealLanding() {
       </header>
 
       {/* Hero (Proyecto específico) */}
+      <h1 className="mt-4 text-4xl md:text-5xl font-semibold leading-tight">
+  Terrenos en Yaxnic desde $108,790 de contado
+</h1>
+
+<p className="mt-6 text-neutral-600 leading-8">
+  Invierte tu dinero en tierra con potencial real. Escrituración individual, acceso definido y opción de pago hasta 12 meses.
+</p>
+
+<div className="mt-8 grid grid-cols-3 gap-4 text-center">
+  <div>
+    <p className="text-xl font-semibold">Desde</p>
+    <p className="text-sm text-neutral-500">$108,790</p>
+  </div>
+  <div>
+    <p className="text-xl font-semibold">Financiamiento</p>
+    <p className="text-sm text-neutral-500">Hasta 12 meses</p>
+  </div>
+  <div>
+    <p className="text-xl font-semibold">Ubicación</p>
+    <p className="text-sm text-neutral-500">Yaxnic, Yucatán</p>
+  </div>
+</div>
       <section className="mx-auto max-w-7xl px-6 py-20 md:py-28 grid md:grid-cols-2 gap-12 items-center">
         <div>
           <p className="text-sm uppercase tracking-widest text-neutral-500">Nuevo lanzamiento</p>
@@ -54,6 +76,16 @@ export default function TierraRealLanding() {
   className="h-80 w-full rounded-3xl object-cover"
 />
       </section>
+      <div className="mt-8 rounded-2xl border border-neutral-200 p-6">
+  <p className="text-lg font-semibold">Opciones de compra</p>
+  
+  <div className="mt-4 space-y-2 text-sm text-neutral-700">
+    <p>• Contado: <strong>$108,790</strong></p>
+    <p>• Financiamiento: <strong>$121,440</strong></p>
+    <p>• Enganche: 30%</p>
+    <p>• Hasta 12 pagos mensuales</p>
+  </div>
+</div>
 
       {/* Proyecto */}
       <section id="proyecto" className="bg-neutral-50 py-20">
@@ -71,13 +103,13 @@ export default function TierraRealLanding() {
             </p>
 
             <ul className="mt-6 space-y-3 text-sm text-neutral-700">
-              <li>• Escritura individual</li>
-              <li>• Libre de gravamen</li>
-              <li>• Acceso definido</li>
-              <li>• Uso de suelo rústico</li>
-              <li>• Potencial de liquidez a mediano plazo</li>
-            </ul>
-          </div>
+  <li>• Escritura individual</li>
+  <li>• Libre de gravamen</li>
+  <li>• Acceso definido</li>
+  <li>• Ubicación con crecimiento cercano a Mérida</li>
+  <li>• Ideal para inversión patrimonial</li>
+</ul>
+     </div>
         </div>
       </section>
 
@@ -104,7 +136,7 @@ export default function TierraRealLanding() {
           <div className="bg-white text-neutral-900 p-6 rounded-3xl">
             <p className="text-sm font-medium">Acceso inmediato</p>
             <a
-              href="https://wa.me/5219901014381"
+              href="https://wa.me/5219901014381?text=Hola,%20quiero%20información%20de%20los%20terrenos%20en%20Yaxnic"
               className="mt-4 block text-center bg-neutral-900 text-white px-6 py-3 rounded-full text-sm"
             >
               Enviar WhatsApp
