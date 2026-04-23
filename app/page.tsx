@@ -32,7 +32,7 @@ export default function TierraRealLanding() {
   </div>
   <div>
     <p className="text-xl font-semibold">Ubicación</p>
-    <p className="text-sm text-neutral-500">Yaxnic, Yucatán</p>
+    <p className="text-sm text-neutral-500">Yaxnic, Mérida, Yucatán</p>
   </div>
 </div>
       <section className="mx-auto max-w-7xl px-6 py-20 md:py-28 grid md:grid-cols-2 gap-12 items-center">
@@ -48,15 +48,15 @@ export default function TierraRealLanding() {
           <div className="mt-8 grid grid-cols-3 gap-4 text-center">
             <div>
               <p className="text-xl font-semibold">Desde</p>
-              <p className="text-sm text-neutral-500">$95,000</p>
+              <p className="text-sm text-neutral-500">$108,790</p>
             </div>
             <div>
               <p className="text-xl font-semibold">Ubicación</p>
               <p className="text-sm text-neutral-500">Yaxnic, Mérida, Yucatán</p>
             </div>
             <div>
-              <p className="text-xl font-semibold">Listo</p>
-              <p className="text-sm text-neutral-500">Para escriturar</p>
+              <p className="text-xl font-semibold">Financiamiento</p>
+              <p className="text-sm text-neutral-500">Hasta 12 meses</p>
             </div>
           </div>
 
