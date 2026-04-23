@@ -61,7 +61,7 @@ export default function TierraRealLanding() {
 <img
   src="/Master.png"
   alt="Masterplan del proyecto"
-  className="h-80 w-full rounded-3xl object-cover"
+  className="w-full rounded-3xl object-cover"
 />
 
           <div>
